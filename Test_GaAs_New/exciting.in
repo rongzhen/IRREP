@@ -1,0 +1,50 @@
+! GaAs using the Perdew-Burke-Ernzerhof GGA functional. Try calculating the
+! effective mass tensor at the Gamma-point using runtype=25. Repeat this with
+! spin-orbit coupling switched on.
+
+tasks
+  20
+
+xctype
+  20
+ 
+spinorb 
+  true  
+
+! less stringent potential convergence tolerance
+epspot
+ 1.e-5
+
+scale
+ 10.687
+
+avec
+  0.5000 0.5000 0.0000
+  0.5000 0.0000 0.5000 
+  0.0000 0.5000 0.5000 
+
+sppath
+ '../species/'
+
+atoms
+  2                                   : nspecies
+  'Ga.in'                             : spfname
+  1                                   : natoms
+  0.00 0.00 0.00  0.0 0.0 0.0         : atposl, bfcmt
+  'As.in'                             : spfname
+  1                                   : natoms
+  0.25 0.25 0.25  0.0 0.0 0.0         : atposl, bfcmt
+
+ngridk
+  2  2  2
+
+vkloff
+  0.0  0.0  0.0 
+
+
+! These are the vertices to be joined for the band structure plot
+plot1d
+  2 3                                   : nvp1d, npp1d
+  0.0   0.0   0.0
+  0.5   0.5   0.5
+

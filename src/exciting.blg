@@ -1,0 +1,45 @@
+This is BibTeX, Version 0.99c (Web2C 7.5.4)
+The top-level auxiliary file: exciting.aux
+The style file: unsrt.bst
+Database file #1: exciting.bib
+You've used 2 entries,
+            1791 wiz_defined-function locations,
+            451 strings with 3756 characters,
+and the built_in function-call counts, 259 in all, are:
+= -- 18
+> -- 5
+< -- 0
++ -- 3
+- -- 1
+* -- 6
+:= -- 39
+add.period$ -- 4
+call.type$ -- 2
+change.case$ -- 1
+chr.to.int$ -- 0
+cite$ -- 2
+duplicate$ -- 15
+empty$ -- 38
+format.name$ -- 1
+if$ -- 61
+int.to.chr$ -- 0
+int.to.str$ -- 2
+missing$ -- 2
+newline$ -- 11
+num.names$ -- 1
+pop$ -- 15
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 7
+stack$ -- 0
+substring$ -- 0
+swap$ -- 2
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 1
+width$ -- 3
+write$ -- 18

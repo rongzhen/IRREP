@@ -1,0 +1,9 @@
+MAKE = make
+F90 = gfortran
+F90_OPTS = -O3 -funroll-loops -ffast-math
+F77 = gfortran
+F77_OPTS = -O3 -funroll-loops -ffast-math
+AR = ar
+LIB_SYS = 
+LIB_LPK = lapack.a blas.a
+LIB_FFT = fftlib.a

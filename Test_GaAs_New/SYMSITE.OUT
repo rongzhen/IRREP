@@ -1,0 +1,248 @@
+
+
+Species :    1 (Ga), atom :    1
+  12 : nsymsite
+
+ Site symmetry :    1
+  spatial rotation (lattice coordinates) :
+   1   0   0
+   0   1   0
+   0   0   1
+  global spin rotation (lattice coordinates) :
+   1   0   0
+   0   1   0
+   0   0   1
+
+ Site symmetry :    2
+  spatial rotation (lattice coordinates) :
+  -1  -1  -1
+   0   1   0
+   1   0   0
+  global spin rotation (lattice coordinates) :
+  -1  -1  -1
+   0   1   0
+   1   0   0
+
+ Site symmetry :    3
+  spatial rotation (lattice coordinates) :
+  -1  -1  -1
+   1   0   0
+   0   0   1
+  global spin rotation (lattice coordinates) :
+  -1  -1  -1
+   1   0   0
+   0   0   1
+
+ Site symmetry :    4
+  spatial rotation (lattice coordinates) :
+   0   0   1
+  -1  -1  -1
+   1   0   0
+  global spin rotation (lattice coordinates) :
+   0   0   1
+  -1  -1  -1
+   1   0   0
+
+ Site symmetry :    5
+  spatial rotation (lattice coordinates) :
+   0   0   1
+   0   1   0
+  -1  -1  -1
+  global spin rotation (lattice coordinates) :
+   0   0   1
+   0   1   0
+  -1  -1  -1
+
+ Site symmetry :    6
+  spatial rotation (lattice coordinates) :
+   0   0   1
+   1   0   0
+   0   1   0
+  global spin rotation (lattice coordinates) :
+   0   0   1
+   1   0   0
+   0   1   0
+
+ Site symmetry :    7
+  spatial rotation (lattice coordinates) :
+   0   1   0
+  -1  -1  -1
+   0   0   1
+  global spin rotation (lattice coordinates) :
+   0   1   0
+  -1  -1  -1
+   0   0   1
+
+ Site symmetry :    8
+  spatial rotation (lattice coordinates) :
+   0   1   0
+   0   0   1
+   1   0   0
+  global spin rotation (lattice coordinates) :
+   0   1   0
+   0   0   1
+   1   0   0
+
+ Site symmetry :    9
+  spatial rotation (lattice coordinates) :
+   0   1   0
+   1   0   0
+  -1  -1  -1
+  global spin rotation (lattice coordinates) :
+   0   1   0
+   1   0   0
+  -1  -1  -1
+
+ Site symmetry :   10
+  spatial rotation (lattice coordinates) :
+   1   0   0
+  -1  -1  -1
+   0   1   0
+  global spin rotation (lattice coordinates) :
+   1   0   0
+  -1  -1  -1
+   0   1   0
+
+ Site symmetry :   11
+  spatial rotation (lattice coordinates) :
+   1   0   0
+   0   0   1
+  -1  -1  -1
+  global spin rotation (lattice coordinates) :
+   1   0   0
+   0   0   1
+  -1  -1  -1
+
+ Site symmetry :   12
+  spatial rotation (lattice coordinates) :
+  -1  -1  -1
+   0   0   1
+   0   1   0
+  global spin rotation (lattice coordinates) :
+  -1  -1  -1
+   0   0   1
+   0   1   0
+
+
+Species :    2 (As), atom :    1
+  12 : nsymsite
+
+ Site symmetry :    1
+  spatial rotation (lattice coordinates) :
+   1   0   0
+   0   1   0
+   0   0   1
+  global spin rotation (lattice coordinates) :
+   1   0   0
+   0   1   0
+   0   0   1
+
+ Site symmetry :    2
+  spatial rotation (lattice coordinates) :
+  -1  -1  -1
+   0   1   0
+   1   0   0
+  global spin rotation (lattice coordinates) :
+  -1  -1  -1
+   0   1   0
+   1   0   0
+
+ Site symmetry :    3
+  spatial rotation (lattice coordinates) :
+  -1  -1  -1
+   1   0   0
+   0   0   1
+  global spin rotation (lattice coordinates) :
+  -1  -1  -1
+   1   0   0
+   0   0   1
+
+ Site symmetry :    4
+  spatial rotation (lattice coordinates) :
+   0   0   1
+  -1  -1  -1
+   1   0   0
+  global spin rotation (lattice coordinates) :
+   0   0   1
+  -1  -1  -1
+   1   0   0
+
+ Site symmetry :    5
+  spatial rotation (lattice coordinates) :
+   0   0   1
+   0   1   0
+  -1  -1  -1
+  global spin rotation (lattice coordinates) :
+   0   0   1
+   0   1   0
+  -1  -1  -1
+
+ Site symmetry :    6
+  spatial rotation (lattice coordinates) :
+   0   0   1
+   1   0   0
+   0   1   0
+  global spin rotation (lattice coordinates) :
+   0   0   1
+   1   0   0
+   0   1   0
+
+ Site symmetry :    7
+  spatial rotation (lattice coordinates) :
+   0   1   0
+  -1  -1  -1
+   0   0   1
+  global spin rotation (lattice coordinates) :
+   0   1   0
+  -1  -1  -1
+   0   0   1
+
+ Site symmetry :    8
+  spatial rotation (lattice coordinates) :
+   0   1   0
+   0   0   1
+   1   0   0
+  global spin rotation (lattice coordinates) :
+   0   1   0
+   0   0   1
+   1   0   0
+
+ Site symmetry :    9
+  spatial rotation (lattice coordinates) :
+   0   1   0
+   1   0   0
+  -1  -1  -1
+  global spin rotation (lattice coordinates) :
+   0   1   0
+   1   0   0
+  -1  -1  -1
+
+ Site symmetry :   10
+  spatial rotation (lattice coordinates) :
+   1   0   0
+  -1  -1  -1
+   0   1   0
+  global spin rotation (lattice coordinates) :
+   1   0   0
+  -1  -1  -1
+   0   1   0
+
+ Site symmetry :   11
+  spatial rotation (lattice coordinates) :
+   1   0   0
+   0   0   1
+  -1  -1  -1
+  global spin rotation (lattice coordinates) :
+   1   0   0
+   0   0   1
+  -1  -1  -1
+
+ Site symmetry :   12
+  spatial rotation (lattice coordinates) :
+  -1  -1  -1
+   0   0   1
+   0   1   0
+  global spin rotation (lattice coordinates) :
+  -1  -1  -1
+   0   0   1
+   0   1   0

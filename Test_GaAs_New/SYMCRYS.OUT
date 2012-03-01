@@ -1,0 +1,145 @@
+  12 : nsymcrys
+
+Crystal symmetry :    1
+ spatial rotation (lattice coordinates) :
+   1   0   0
+   0   1   0
+   0   0   1
+ spatial translation (lattice coordinates) :
+   0.000000000       0.000000000       0.000000000    
+ global spin rotation (lattice coordinates) :
+   1   0   0
+   0   1   0
+   0   0   1
+
+Crystal symmetry :    2
+ spatial rotation (lattice coordinates) :
+  -1  -1  -1
+   0   1   0
+   1   0   0
+ spatial translation (lattice coordinates) :
+   0.000000000       0.000000000       0.000000000    
+ global spin rotation (lattice coordinates) :
+  -1  -1  -1
+   0   1   0
+   1   0   0
+
+Crystal symmetry :    3
+ spatial rotation (lattice coordinates) :
+  -1  -1  -1
+   1   0   0
+   0   0   1
+ spatial translation (lattice coordinates) :
+   0.000000000       0.000000000       0.000000000    
+ global spin rotation (lattice coordinates) :
+  -1  -1  -1
+   1   0   0
+   0   0   1
+
+Crystal symmetry :    4
+ spatial rotation (lattice coordinates) :
+   0   0   1
+  -1  -1  -1
+   1   0   0
+ spatial translation (lattice coordinates) :
+   0.000000000       0.000000000       0.000000000    
+ global spin rotation (lattice coordinates) :
+   0   0   1
+  -1  -1  -1
+   1   0   0
+
+Crystal symmetry :    5
+ spatial rotation (lattice coordinates) :
+   0   0   1
+   0   1   0
+  -1  -1  -1
+ spatial translation (lattice coordinates) :
+   0.000000000       0.000000000       0.000000000    
+ global spin rotation (lattice coordinates) :
+   0   0   1
+   0   1   0
+  -1  -1  -1
+
+Crystal symmetry :    6
+ spatial rotation (lattice coordinates) :
+   0   0   1
+   1   0   0
+   0   1   0
+ spatial translation (lattice coordinates) :
+   0.000000000       0.000000000       0.000000000    
+ global spin rotation (lattice coordinates) :
+   0   0   1
+   1   0   0
+   0   1   0
+
+Crystal symmetry :    7
+ spatial rotation (lattice coordinates) :
+   0   1   0
+  -1  -1  -1
+   0   0   1
+ spatial translation (lattice coordinates) :
+   0.000000000       0.000000000       0.000000000    
+ global spin rotation (lattice coordinates) :
+   0   1   0
+  -1  -1  -1
+   0   0   1
+
+Crystal symmetry :    8
+ spatial rotation (lattice coordinates) :
+   0   1   0
+   0   0   1
+   1   0   0
+ spatial translation (lattice coordinates) :
+   0.000000000       0.000000000       0.000000000    
+ global spin rotation (lattice coordinates) :
+   0   1   0
+   0   0   1
+   1   0   0
+
+Crystal symmetry :    9
+ spatial rotation (lattice coordinates) :
+   0   1   0
+   1   0   0
+  -1  -1  -1
+ spatial translation (lattice coordinates) :
+   0.000000000       0.000000000       0.000000000    
+ global spin rotation (lattice coordinates) :
+   0   1   0
+   1   0   0
+  -1  -1  -1
+
+Crystal symmetry :   10
+ spatial rotation (lattice coordinates) :
+   1   0   0
+  -1  -1  -1
+   0   1   0
+ spatial translation (lattice coordinates) :
+   0.000000000       0.000000000       0.000000000    
+ global spin rotation (lattice coordinates) :
+   1   0   0
+  -1  -1  -1
+   0   1   0
+
+Crystal symmetry :   11
+ spatial rotation (lattice coordinates) :
+   1   0   0
+   0   0   1
+  -1  -1  -1
+ spatial translation (lattice coordinates) :
+   0.000000000       0.000000000       0.000000000    
+ global spin rotation (lattice coordinates) :
+   1   0   0
+   0   0   1
+  -1  -1  -1
+
+Crystal symmetry :   12
+ spatial rotation (lattice coordinates) :
+  -1  -1  -1
+   0   0   1
+   0   1   0
+ spatial translation (lattice coordinates) :
+   0.000000000       0.000000000       0.000000000    
+ global spin rotation (lattice coordinates) :
+  -1  -1  -1
+   0   0   1
+   0   1   0
