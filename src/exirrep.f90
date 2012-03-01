@@ -170,11 +170,6 @@ Do i = 1, nstsv
    End Do
 End Do
  
-write(*,*) "testing the 2st eigenvector by rongzhen"
-Do i=1, nstsv
-write(*,*) evec2v(:,i)
-End DO
-stop
 
 !end rongzhen
 ! properties of the k-point 
