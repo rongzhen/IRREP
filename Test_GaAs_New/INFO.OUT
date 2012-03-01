@@ -2,8 +2,8 @@
 | EXCITING version 0.9.114 started |
 +----------------------------------+
 
-Date (YYYY-MM-DD) : 2012-02-29
-Time (hh:mm:ss)   : 10:09:31
+Date (YYYY-MM-DD) : 2012-03-01
+Time (hh:mm:ss)   : 20:34:27
 
 +-------------------------------------------------+
 | Ground-state run starting from atomic densities |
@@ -113,11 +113,11 @@ Energies :
  Coulomb                 :   -8340.048897    
  Coulomb potential       :   -6505.679664    
  nuclear-nuclear         :   -452.9423548    
- electron-nuclear        :   -9268.533420    
+ electron-nuclear        :   -9268.533421    
  Hartree                 :    1381.426878    
  Madelung                :   -5087.209065    
  xc potential            :   -206.2360912    
- xc effective B-field    :  -0.1650398345E-12
+ xc effective B-field    :  -0.1065911439E-12
  external B-field        :    0.000000000    
  exchange                :   -156.6086258    
  correlation             :   -3.124138497    
@@ -129,9 +129,9 @@ Density of states at Fermi energy :    5.214438293
 
 Charges :
  core                    :    36.00000000    
- core leakage            :   0.7723395937E-02
+ core leakage            :   0.7723395938E-02
  valence                 :    28.00000000    
- interstitial            :    4.654279923    
+ interstitial            :    4.654279921    
  muffin-tins
   species    1 atom    1 :    28.68373884    
   species    2 atom    1 :    30.66198124    
@@ -139,14 +139,14 @@ Charges :
  total charge            :    64.00000000    
 
 Moments :
- interstitial            :  -0.6107335485E-22
+ interstitial            :  -0.8597477924E-22
  muffin-tins
-  species    1 atom    1 :  -0.1796377016E-26
-  species    2 atom    1 :   0.2906391132E-26
- total in muffin-tins    :   0.1110014116E-26
- total moment            :  -0.6107224484E-22
+  species    1 atom    1 :   0.3953990469E-27
+  species    2 atom    1 :   0.2199146551E-26
+ total in muffin-tins    :   0.2594545598E-26
+ total moment            :  -0.8597218469E-22
 
-Time (CPU seconds) :         7.80
+Time (CPU seconds) :        13.26
 
 +--------------------------+
 | Iteration number :     2 |
@@ -164,21 +164,21 @@ Energies :
  Hartree                 :    1381.118308    
  Madelung                :   -5086.932233    
  xc potential            :   -206.2163583    
- xc effective B-field    :   0.1989115544E-13
+ xc effective B-field    :  -0.3451539961E-12
  external B-field        :    0.000000000    
  exchange                :   -156.5937954    
  correlation             :   -3.124321188    
  total energy            :   -4209.524108    
  (external B-field energy excluded from total)
 
-Density of states at Fermi energy :    6.943065224    
+Density of states at Fermi energy :    6.943065217    
  (states/Hartree/spin/unit cell)
 
 Charges :
  core                    :    36.00000000    
- core leakage            :   0.7704309735E-02
+ core leakage            :   0.7704309734E-02
  valence                 :    28.00000000    
- interstitial            :    4.672329802    
+ interstitial            :    4.672329804    
  muffin-tins
   species    1 atom    1 :    28.71144049    
   species    2 atom    1 :    30.61622970    
@@ -186,23 +186,23 @@ Charges :
  total charge            :    64.00000000    
 
 Moments :
- interstitial            :   0.9253146273E-22
+ interstitial            :   0.1922026862E-22
  muffin-tins
-  species    1 atom    1 :   0.4384718040E-26
-  species    2 atom    1 :  -0.7990427517E-27
- total in muffin-tins    :   0.3585675289E-26
- total moment            :   0.9253504840E-22
+  species    1 atom    1 :   0.1626342517E-26
+  species    2 atom    1 :  -0.1183983509E-25
+ total in muffin-tins    :  -0.1021349257E-25
+ total moment            :   0.1921005513E-22
 
 RMS change in effective potential (target) :    11.13895197     (  0.1000000000E-04)
 
-Time (CPU seconds) :        10.25
+Time (CPU seconds) :        17.63
 
 +--------------------------+
 | Iteration number :     3 |
 +--------------------------+
 
 Energies :
- Fermi                   :   0.1693316139    
+ Fermi                   :   0.1693316138    
  sum of eigenvalues      :   -2421.085160    
  electronic kinetic      :    4290.954080    
  core electron kinetic   :    3976.232317    
@@ -213,14 +213,14 @@ Energies :
  Hartree                 :    1380.599510    
  Madelung                :   -5086.470030    
  xc potential            :   -206.1829084    
- xc effective B-field    :  -0.2039805716E-12
+ xc effective B-field    :   0.1582895836E-14
  external B-field        :    0.000000000    
  exchange                :   -156.5686371    
  correlation             :   -3.124593377    
  total energy            :   -4208.137346    
  (external B-field energy excluded from total)
 
-Density of states at Fermi energy :    9.901955555    
+Density of states at Fermi energy :    9.901955623    
  (states/Hartree/spin/unit cell)
 
 Charges :
@@ -235,23 +235,23 @@ Charges :
  total charge            :    64.00000000    
 
 Moments :
- interstitial            :   0.2125629227E-21
+ interstitial            :  -0.7074288261E-24
  muffin-tins
-  species    1 atom    1 :   0.2246492396E-27
-  species    2 atom    1 :  -0.3449751677E-26
- total in muffin-tins    :  -0.3225102438E-26
- total moment            :   0.2125596976E-21
+  species    1 atom    1 :  -0.5903393164E-26
+  species    2 atom    1 :   0.4342141959E-26
+ total in muffin-tins    :  -0.1561251205E-26
+ total moment            :  -0.7089900773E-24
 
 RMS change in effective potential (target) :    13.35579034     (  0.1000000000E-04)
 
-Time (CPU seconds) :        12.80
+Time (CPU seconds) :        22.14
 
 +--------------------------+
 | Iteration number :     4 |
 +--------------------------+
 
 Energies :
- Fermi                   :   0.1813722895    
+ Fermi                   :   0.1813722896    
  sum of eigenvalues      :   -2420.242760    
  electronic kinetic      :    4291.904807    
  core electron kinetic   :    3976.294566    
@@ -262,21 +262,21 @@ Energies :
  Hartree                 :    1380.164608    
  Madelung                :   -5086.102954    
  xc potential            :   -206.1555852    
- xc effective B-field    :  -0.1326427325E-12
+ xc effective B-field    :  -0.4724293405E-12
  external B-field        :    0.000000000    
  exchange                :   -156.5479887    
  correlation             :   -3.124835945    
  total energy            :   -4206.866962    
  (external B-field energy excluded from total)
 
-Density of states at Fermi energy :    12.53582105    
+Density of states at Fermi energy :    12.53582101    
  (states/Hartree/spin/unit cell)
 
 Charges :
  core                    :    36.00000000    
- core leakage            :   0.7667598103E-02
+ core leakage            :   0.7667598105E-02
  valence                 :    28.00000000    
- interstitial            :    4.726618608    
+ interstitial            :    4.726618607    
  muffin-tins
   species    1 atom    1 :    28.78649870    
   species    2 atom    1 :    30.48688269    
@@ -284,23 +284,23 @@ Charges :
  total charge            :    64.00000000    
 
 Moments :
- interstitial            :   0.4296599976E-22
+ interstitial            :   0.1691540368E-21
  muffin-tins
-  species    1 atom    1 :  -0.2009216575E-25
-  species    2 atom    1 :   0.9408807510E-26
- total in muffin-tins    :  -0.1068335824E-25
- total moment            :   0.4295531641E-22
+  species    1 atom    1 :  -0.1853471346E-26
+  species    2 atom    1 :   0.1706742428E-26
+ total in muffin-tins    :  -0.1467289179E-27
+ total moment            :   0.1691538901E-21
 
 RMS change in effective potential (target) :    12.44931152     (  0.1000000000E-04)
 
-Time (CPU seconds) :        15.30
+Time (CPU seconds) :        26.69
 
 +--------------------------+
 | Iteration number :     5 |
 +--------------------------+
 
 Energies :
- Fermi                   :   0.1906532193    
+ Fermi                   :   0.1906532194    
  sum of eigenvalues      :   -2419.704172    
  electronic kinetic      :    4292.475446    
  core electron kinetic   :    3976.298869    
@@ -311,7 +311,7 @@ Energies :
  Hartree                 :    1380.007587    
  Madelung                :   -5085.966401    
  xc potential            :   -206.1466998    
- xc effective B-field    :  -0.3126280596E-11
+ xc effective B-field    :   0.1236672552E-12
  external B-field        :    0.000000000    
  exchange                :   -156.5412349    
  correlation             :   -3.125066375    
@@ -323,9 +323,9 @@ Density of states at Fermi energy :    13.87984390
 
 Charges :
  core                    :    36.00000000    
- core leakage            :   0.7654241199E-02
+ core leakage            :   0.7654241198E-02
  valence                 :    28.00000000    
- interstitial            :    4.741201993    
+ interstitial            :    4.741201994    
  muffin-tins
   species    1 atom    1 :    28.79947264    
   species    2 atom    1 :    30.45932536    
@@ -333,23 +333,23 @@ Charges :
  total charge            :    64.00000000    
 
 Moments :
- interstitial            :   0.1174957334E-21
+ interstitial            :  -0.2064643193E-21
  muffin-tins
-  species    1 atom    1 :   0.5081005859E-26
-  species    2 atom    1 :   0.4000834427E-26
- total in muffin-tins    :   0.9081840286E-26
- total moment            :   0.1175048152E-21
+  species    1 atom    1 :  -0.7214402142E-26
+  species    2 atom    1 :   0.5398657943E-26
+ total in muffin-tins    :  -0.1815744199E-26
+ total moment            :  -0.2064661350E-21
 
-RMS change in effective potential (target) :    9.320266343     (  0.1000000000E-04)
+RMS change in effective potential (target) :    9.320266345     (  0.1000000000E-04)
 
-Time (CPU seconds) :        17.82
+Time (CPU seconds) :        31.21
 
 +--------------------------+
 | Iteration number :     6 |
 +--------------------------+
 
 Energies :
- Fermi                   :   0.1966412581    
+ Fermi                   :   0.1966412595    
  sum of eigenvalues      :   -2419.337121    
  electronic kinetic      :    4292.837242    
  core electron kinetic   :    3976.281135    
@@ -360,45 +360,45 @@ Energies :
  Hartree                 :    1379.866949    
  Madelung                :   -5085.827785    
  xc potential            :   -206.1374012    
- xc effective B-field    :   0.8265423910E-12
+ xc effective B-field    :  -0.2382627271E-14
  external B-field        :    0.000000000    
  exchange                :   -156.5343627    
  correlation             :   -3.125162587    
  total energy            :   -4205.668549    
  (external B-field energy excluded from total)
 
-Density of states at Fermi energy :    14.07858942    
+Density of states at Fermi energy :    14.07858856    
  (states/Hartree/spin/unit cell)
 
 Charges :
  core                    :    36.00000000    
- core leakage            :   0.7652354044E-02
+ core leakage            :   0.7652354045E-02
  valence                 :    28.00000000    
- interstitial            :    4.749247267    
+ interstitial            :    4.749247254    
  muffin-tins
-  species    1 atom    1 :    28.79729187    
-  species    2 atom    1 :    30.45346086    
- total in muffin-tins    :    59.25075273    
+  species    1 atom    1 :    28.79729188    
+  species    2 atom    1 :    30.45346087    
+ total in muffin-tins    :    59.25075275    
  total charge            :    64.00000000    
 
 Moments :
- interstitial            :  -0.8388646548E-22
+ interstitial            :   0.3670851567E-23
  muffin-tins
-  species    1 atom    1 :  -0.4464163362E-25
-  species    2 atom    1 :   0.6844098152E-25
- total in muffin-tins    :   0.2379934790E-25
- total moment            :  -0.8386266613E-22
+  species    1 atom    1 :   0.5902481699E-27
+  species    2 atom    1 :   0.2061859817E-26
+ total in muffin-tins    :   0.2652107987E-26
+ total moment            :   0.3673503675E-23
 
-RMS change in effective potential (target) :    5.580259674     (  0.1000000000E-04)
+RMS change in effective potential (target) :    5.580259675     (  0.1000000000E-04)
 
-Time (CPU seconds) :        20.35
+Time (CPU seconds) :        35.81
 
 +--------------------------+
 | Iteration number :     7 |
 +--------------------------+
 
 Energies :
- Fermi                   :   0.2000410778    
+ Fermi                   :   0.2000410799    
  sum of eigenvalues      :   -2419.095858    
  electronic kinetic      :    4293.078346    
  core electron kinetic   :    3976.319988    
@@ -409,45 +409,45 @@ Energies :
  Hartree                 :    1379.749781    
  Madelung                :   -5085.714525    
  xc potential            :   -206.1294251    
- xc effective B-field    :  -0.4856454590E-11
+ xc effective B-field    :  -0.1767927167E-11
  external B-field        :    0.000000000    
  exchange                :   -156.5285235    
  correlation             :   -3.125195673    
  total energy            :   -4205.312288    
  (external B-field energy excluded from total)
 
-Density of states at Fermi energy :    13.91502611    
+Density of states at Fermi energy :    13.91502533    
  (states/Hartree/spin/unit cell)
 
 Charges :
  core                    :    36.00000000    
- core leakage            :   0.7653962176E-02
+ core leakage            :   0.7653962186E-02
  valence                 :    28.00000000    
- interstitial            :    4.754386696    
+ interstitial            :    4.754386685    
  muffin-tins
-  species    1 atom    1 :    28.79352493    
-  species    2 atom    1 :    30.45208837    
- total in muffin-tins    :    59.24561330    
+  species    1 atom    1 :    28.79352494    
+  species    2 atom    1 :    30.45208838    
+ total in muffin-tins    :    59.24561332    
  total charge            :    64.00000000    
 
 Moments :
- interstitial            :   0.6525009596E-22
+ interstitial            :  -0.6164754396E-22
  muffin-tins
-  species    1 atom    1 :   0.1947062998E-25
-  species    2 atom    1 :   0.5419713773E-25
- total in muffin-tins    :   0.7366776772E-25
- total moment            :   0.6532376373E-22
+  species    1 atom    1 :   0.3751035099E-27
+  species    2 atom    1 :   0.3359349735E-26
+ total in muffin-tins    :   0.3734453245E-26
+ total moment            :  -0.6164380951E-22
 
-RMS change in effective potential (target) :    2.599774315     (  0.1000000000E-04)
+RMS change in effective potential (target) :    2.599774316     (  0.1000000000E-04)
 
-Time (CPU seconds) :        22.87
+Time (CPU seconds) :        40.30
 
 +--------------------------+
 | Iteration number :     8 |
 +--------------------------+
 
 Energies :
- Fermi                   :   0.2015591070    
+ Fermi                   :   0.2015591087    
  sum of eigenvalues      :   -2419.001558    
  electronic kinetic      :    4293.183066    
  core electron kinetic   :    3976.349572    
@@ -458,21 +458,21 @@ Energies :
  Hartree                 :    1379.736502    
  Madelung                :   -5085.706690    
  xc potential            :   -206.1289573    
- xc effective B-field    :  -0.6408252798E-12
+ xc effective B-field    :  -0.5207115104E-12
  external B-field        :    0.000000000    
  exchange                :   -156.5282427    
  correlation             :   -3.125233204    
  total energy            :   -4205.204933    
  (external B-field energy excluded from total)
 
-Density of states at Fermi energy :    13.74647661    
+Density of states at Fermi energy :    13.74647612    
  (states/Hartree/spin/unit cell)
 
 Charges :
  core                    :    36.00000000    
  core leakage            :   0.7653565842E-02
  valence                 :    28.00000000    
- interstitial            :    4.756908210    
+ interstitial            :    4.756908206    
  muffin-tins
   species    1 atom    1 :    28.79162564    
   species    2 atom    1 :    30.45146615    
@@ -480,23 +480,23 @@ Charges :
  total charge            :    64.00000000    
 
 Moments :
- interstitial            :   0.5422373446E-22
+ interstitial            :  -0.7263635359E-23
  muffin-tins
-  species    1 atom    1 :  -0.4032641141E-25
-  species    2 atom    1 :   0.3533991054E-25
- total in muffin-tins    :  -0.4986500874E-26
- total moment            :   0.5421874796E-22
+  species    1 atom    1 :   0.4978474666E-25
+  species    2 atom    1 :  -0.3744286804E-25
+ total in muffin-tins    :   0.1234187862E-25
+ total moment            :  -0.7251293480E-23
 
-RMS change in effective potential (target) :   0.8912293483     (  0.1000000000E-04)
+RMS change in effective potential (target) :   0.8912293485     (  0.1000000000E-04)
 
-Time (CPU seconds) :        25.40
+Time (CPU seconds) :        44.87
 
 +--------------------------+
 | Iteration number :     9 |
 +--------------------------+
 
 Energies :
- Fermi                   :   0.2020831510    
+ Fermi                   :   0.2020831523    
  sum of eigenvalues      :   -2418.961451    
  electronic kinetic      :    4293.232423    
  core electron kinetic   :    3976.370885    
@@ -507,47 +507,47 @@ Energies :
  Hartree                 :    1379.726084    
  Madelung                :   -5085.701163    
  xc potential            :   -206.1284263    
- xc effective B-field    :   0.8766041450E-12
+ xc effective B-field    :  -0.2700144750E-11
  external B-field        :    0.000000000    
  exchange                :   -156.5278859    
  correlation             :   -3.125243602    
  total energy            :   -4205.154593    
  (external B-field energy excluded from total)
 
-Density of states at Fermi energy :    13.63269719    
+Density of states at Fermi energy :    13.63269669    
  (states/Hartree/spin/unit cell)
 
 Charges :
  core                    :    36.00000000    
- core leakage            :   0.7654901213E-02
+ core leakage            :   0.7654901215E-02
  valence                 :    28.00000000    
- interstitial            :    4.758173061    
+ interstitial            :    4.758173057    
  muffin-tins
   species    1 atom    1 :    28.79058839    
-  species    2 atom    1 :    30.45123855    
+  species    2 atom    1 :    30.45123856    
  total in muffin-tins    :    59.24182694    
  total charge            :    64.00000000    
 
 Moments :
- interstitial            :  -0.9924106955E-22
+ interstitial            :  -0.1177977136E-21
  muffin-tins
-  species    1 atom    1 :  -0.4433261942E-25
-  species    2 atom    1 :   0.3159720784E-25
- total in muffin-tins    :  -0.1273541158E-25
- total moment            :  -0.9925380496E-22
+  species    1 atom    1 :   0.6397218072E-25
+  species    2 atom    1 :  -0.2913440227E-25
+ total in muffin-tins    :   0.3483777845E-25
+ total moment            :  -0.1177628759E-21
 
-RMS change in effective potential (target) :   0.2032610332     (  0.1000000000E-04)
+RMS change in effective potential (target) :   0.2032610326     (  0.1000000000E-04)
 
-Time (CPU seconds) :        27.94
+Time (CPU seconds) :        49.44
 
 +--------------------------+
 | Iteration number :    10 |
 +--------------------------+
 
 Energies :
- Fermi                   :   0.2022094679    
+ Fermi                   :   0.2022094678    
  sum of eigenvalues      :   -2418.951694    
- electronic kinetic      :    4293.246075    
+ electronic kinetic      :    4293.246076    
  core electron kinetic   :    3976.376956    
  Coulomb                 :   -8338.740784    
  Coulomb potential       :   -6506.069007    
@@ -556,45 +556,45 @@ Energies :
  Hartree                 :    1379.729422    
  Madelung                :   -5085.706280    
  xc potential            :   -206.1287622    
- xc effective B-field    :  -0.2610967880E-11
+ xc effective B-field    :  -0.1688887607E-12
  external B-field        :    0.000000000    
  exchange                :   -156.5281491    
- correlation             :   -3.125249778    
+ correlation             :   -3.125249779    
  total energy            :   -4205.148107    
  (external B-field energy excluded from total)
 
-Density of states at Fermi energy :    13.59353675    
+Density of states at Fermi energy :    13.59353710    
  (states/Hartree/spin/unit cell)
 
 Charges :
  core                    :    36.00000000    
- core leakage            :   0.7655222463E-02
+ core leakage            :   0.7655222466E-02
  valence                 :    28.00000000    
- interstitial            :    4.758570454    
+ interstitial            :    4.758570459    
  muffin-tins
   species    1 atom    1 :    28.79035629    
   species    2 atom    1 :    30.45107326    
- total in muffin-tins    :    59.24142955    
+ total in muffin-tins    :    59.24142954    
  total charge            :    64.00000000    
 
 Moments :
- interstitial            :  -0.3058416305E-21
+ interstitial            :  -0.7685159824E-24
  muffin-tins
-  species    1 atom    1 :  -0.6703143809E-25
-  species    2 atom    1 :   0.6774222011E-25
- total in muffin-tins    :   0.7107820182E-27
- total moment            :  -0.3058409197E-21
+  species    1 atom    1 :   0.9740279246E-25
+  species    2 atom    1 :  -0.7325939051E-25
+ total in muffin-tins    :   0.2414340196E-25
+ total moment            :  -0.7443725805E-24
 
-RMS change in effective potential (target) :   0.3868987382E-01 (  0.1000000000E-04)
+RMS change in effective potential (target) :   0.3868987172E-01 (  0.1000000000E-04)
 
-Time (CPU seconds) :        30.45
+Time (CPU seconds) :        54.18
 
 +--------------------------+
 | Iteration number :    11 |
 +--------------------------+
 
 Energies :
- Fermi                   :   0.2022305232    
+ Fermi                   :   0.2022305227    
  sum of eigenvalues      :   -2418.946066    
  electronic kinetic      :    4293.253324    
  core electron kinetic   :    3976.380952    
@@ -605,45 +605,45 @@ Energies :
  Hartree                 :    1379.723950    
  Madelung                :   -5085.701814    
  xc potential            :   -206.1283716    
- xc effective B-field    :  -0.1632054757E-11
+ xc effective B-field    :   0.9845637939E-12
  external B-field        :    0.000000000    
  exchange                :   -156.5278643    
  correlation             :   -3.125247099    
  total energy            :   -4205.137110    
  (external B-field energy excluded from total)
 
-Density of states at Fermi energy :    13.57652735    
+Density of states at Fermi energy :    13.57652754    
  (states/Hartree/spin/unit cell)
 
 Charges :
  core                    :    36.00000000    
- core leakage            :   0.7655894051E-02
+ core leakage            :   0.7655894048E-02
  valence                 :    28.00000000    
- interstitial            :    4.758724896    
+ interstitial            :    4.758724899    
  muffin-tins
   species    1 atom    1 :    28.79015176    
-  species    2 atom    1 :    30.45112335    
+  species    2 atom    1 :    30.45112334    
  total in muffin-tins    :    59.24127510    
  total charge            :    64.00000000    
 
 Moments :
- interstitial            :  -0.1871763826E-22
+ interstitial            :   0.2700801122E-22
  muffin-tins
-  species    1 atom    1 :   0.5924322726E-25
-  species    2 atom    1 :  -0.3606640539E-25
- total in muffin-tins    :   0.2317682187E-25
- total moment            :  -0.1869446144E-22
+  species    1 atom    1 :   0.4868521088E-25
+  species    2 atom    1 :  -0.3638403249E-25
+ total in muffin-tins    :   0.1230117839E-25
+ total moment            :   0.2702031240E-22
 
-RMS change in effective potential (target) :   0.2394482078E-01 (  0.1000000000E-04)
+RMS change in effective potential (target) :   0.2394482044E-01 (  0.1000000000E-04)
 
-Time (CPU seconds) :        32.95
+Time (CPU seconds) :        58.67
 
 +--------------------------+
 | Iteration number :    12 |
 +--------------------------+
 
 Energies :
- Fermi                   :   0.2022323107    
+ Fermi                   :   0.2022323111    
  sum of eigenvalues      :   -2418.946480    
  electronic kinetic      :    4293.253063    
  core electron kinetic   :    3976.381360    
@@ -654,70 +654,70 @@ Energies :
  Hartree                 :    1379.724507    
  Madelung                :   -5085.702423    
  xc potential            :   -206.1284191    
- xc effective B-field    :   0.2988388528E-12
+ xc effective B-field    :   0.2031475606E-12
  external B-field        :    0.000000000    
  exchange                :   -156.5278990    
  correlation             :   -3.125247915    
  total energy            :   -4205.138069    
  (external B-field energy excluded from total)
 
-Density of states at Fermi energy :    13.57974391    
+Density of states at Fermi energy :    13.57974363    
  (states/Hartree/spin/unit cell)
 
 Charges :
  core                    :    36.00000000    
- core leakage            :   0.7655847007E-02
+ core leakage            :   0.7655847003E-02
  valence                 :    28.00000000    
- interstitial            :    4.758745529    
+ interstitial            :    4.758745525    
  muffin-tins
   species    1 atom    1 :    28.79021639    
-  species    2 atom    1 :    30.45103808    
+  species    2 atom    1 :    30.45103809    
  total in muffin-tins    :    59.24125447    
  total charge            :    64.00000000    
 
 Moments :
- interstitial            :   0.4121325967E-22
+ interstitial            :   0.6880791353E-22
  muffin-tins
-  species    1 atom    1 :   0.1189808187E-25
-  species    2 atom    1 :  -0.7205510079E-25
- total in muffin-tins    :  -0.6015701892E-25
- total moment            :   0.4115310265E-22
+  species    1 atom    1 :   0.1040553359E-24
+  species    2 atom    1 :  -0.1446389269E-24
+ total in muffin-tins    :  -0.4058359098E-25
+ total moment            :   0.6876732994E-22
 
-RMS change in effective potential (target) :   0.1488516689E-01 (  0.1000000000E-04)
+RMS change in effective potential (target) :   0.1488516699E-01 (  0.1000000000E-04)
 
-Time (CPU seconds) :        35.49
+Time (CPU seconds) :        63.14
 
 +--------------------------+
 | Iteration number :    13 |
 +--------------------------+
 
 Energies :
- Fermi                   :   0.2022280912    
+ Fermi                   :   0.2022280922    
  sum of eigenvalues      :   -2418.947080    
  electronic kinetic      :    4293.252472    
  core electron kinetic   :    3976.381558    
- Coulomb                 :   -8338.738929    
+ Coulomb                 :   -8338.738930    
  Coulomb potential       :   -6506.071056    
  nuclear-nuclear         :   -452.9423548    
- electron-nuclear        :   -9265.522092    
- Hartree                 :    1379.725518    
- Madelung                :   -5085.703401    
+ electron-nuclear        :   -9265.522094    
+ Hartree                 :    1379.725519    
+ Madelung                :   -5085.703402    
  xc potential            :   -206.1284968    
- xc effective B-field    :   0.5724742783E-12
+ xc effective B-field    :  -0.1613188438E-12
  external B-field        :    0.000000000    
  exchange                :   -156.5279567    
- correlation             :   -3.125248573    
- total energy            :   -4205.139662    
+ correlation             :   -3.125248572    
+ total energy            :   -4205.139663    
  (external B-field energy excluded from total)
 
-Density of states at Fermi energy :    13.58009337    
+Density of states at Fermi energy :    13.58009277    
  (states/Hartree/spin/unit cell)
 
 Charges :
  core                    :    36.00000000    
- core leakage            :   0.7655783688E-02
+ core leakage            :   0.7655783686E-02
  valence                 :    28.00000000    
- interstitial            :    4.758743415    
+ interstitial            :    4.758743407    
  muffin-tins
   species    1 atom    1 :    28.79024239    
   species    2 atom    1 :    30.45101420    
@@ -725,23 +725,23 @@ Charges :
  total charge            :    64.00000000    
 
 Moments :
- interstitial            :   0.9882948634E-22
+ interstitial            :  -0.1874947441E-22
  muffin-tins
-  species    1 atom    1 :   0.1320164621E-24
-  species    2 atom    1 :  -0.1077988005E-24
- total in muffin-tins    :   0.2421766159E-25
- total moment            :   0.9885370401E-22
+  species    1 atom    1 :   0.4083058288E-26
+  species    2 atom    1 :  -0.3643763001E-25
+ total in muffin-tins    :  -0.3235457173E-25
+ total moment            :  -0.1878182899E-22
 
-RMS change in effective potential (target) :   0.7599381183E-02 (  0.1000000000E-04)
+RMS change in effective potential (target) :   0.7599384079E-02 (  0.1000000000E-04)
 
-Time (CPU seconds) :        38.00
+Time (CPU seconds) :        68.34
 
 +--------------------------+
 | Iteration number :    14 |
 +--------------------------+
 
 Energies :
- Fermi                   :   0.2022243816    
+ Fermi                   :   0.2022243824    
  sum of eigenvalues      :   -2418.947436    
  electronic kinetic      :    4293.252073    
  core electron kinetic   :    3976.381606    
@@ -752,21 +752,21 @@ Energies :
  Hartree                 :    1379.726180    
  Madelung                :   -5085.704016    
  xc potential            :   -206.1285461    
- xc effective B-field    :  -0.2104875550E-12
+ xc effective B-field    :  -0.4496811997E-11
  external B-field        :    0.000000000    
  exchange                :   -156.5279932    
  correlation             :   -3.125248918    
  total energy            :   -4205.140667    
  (external B-field energy excluded from total)
 
-Density of states at Fermi energy :    13.57995085    
+Density of states at Fermi energy :    13.57995046    
  (states/Hartree/spin/unit cell)
 
 Charges :
  core                    :    36.00000000    
- core leakage            :   0.7655749169E-02
+ core leakage            :   0.7655749176E-02
  valence                 :    28.00000000    
- interstitial            :    4.758738678    
+ interstitial            :    4.758738675    
  muffin-tins
   species    1 atom    1 :    28.79025137    
   species    2 atom    1 :    30.45100995    
@@ -774,23 +774,23 @@ Charges :
  total charge            :    64.00000000    
 
 Moments :
- interstitial            :   0.1301925033E-21
+ interstitial            :   0.1960071127E-21
  muffin-tins
-  species    1 atom    1 :   0.3892751479E-25
-  species    2 atom    1 :  -0.1004624387E-25
- total in muffin-tins    :   0.2888127092E-25
- total moment            :   0.1302213845E-21
+  species    1 atom    1 :  -0.3551753336E-25
+  species    2 atom    1 :   0.2033370404E-25
+ total in muffin-tins    :  -0.1518382932E-25
+ total moment            :   0.1959919289E-21
 
-RMS change in effective potential (target) :   0.3241451369E-02 (  0.1000000000E-04)
+RMS change in effective potential (target) :   0.3241450347E-02 (  0.1000000000E-04)
 
-Time (CPU seconds) :        40.51
+Time (CPU seconds) :        73.27
 
 +--------------------------+
 | Iteration number :    15 |
 +--------------------------+
 
 Energies :
- Fermi                   :   0.2022215499    
+ Fermi                   :   0.2022215487    
  sum of eigenvalues      :   -2418.947559    
  electronic kinetic      :    4293.251929    
  core electron kinetic   :    3976.381640    
@@ -801,97 +801,97 @@ Energies :
  Hartree                 :    1379.726335    
  Madelung                :   -5085.704155    
  xc potential            :   -206.1285568    
- xc effective B-field    :  -0.3730001488E-12
+ xc effective B-field    :  -0.3391493904E-11
  external B-field        :    0.000000000    
  exchange                :   -156.5280012    
  correlation             :   -3.125248881    
- total energy            :   -4205.140942    
+ total energy            :   -4205.140941    
  (external B-field energy excluded from total)
 
-Density of states at Fermi energy :    13.57943797    
+Density of states at Fermi energy :    13.57943882    
  (states/Hartree/spin/unit cell)
 
 Charges :
  core                    :    36.00000000    
  core leakage            :   0.7655752303E-02
  valence                 :    28.00000000    
- interstitial            :    4.758734469    
+ interstitial            :    4.758734484    
  muffin-tins
-  species    1 atom    1 :    28.79024630    
-  species    2 atom    1 :    30.45101923    
- total in muffin-tins    :    59.24126553    
+  species    1 atom    1 :    28.79024629    
+  species    2 atom    1 :    30.45101922    
+ total in muffin-tins    :    59.24126552    
  total charge            :    64.00000000    
 
 Moments :
- interstitial            :  -0.1621256844E-21
+ interstitial            :   0.1779191810E-21
  muffin-tins
-  species    1 atom    1 :  -0.1606199229E-25
-  species    2 atom    1 :   0.3398440872E-25
- total in muffin-tins    :   0.1792241643E-25
- total moment            :  -0.1621077620E-21
+  species    1 atom    1 :  -0.2862242148E-24
+  species    2 atom    1 :   0.2428747643E-24
+ total in muffin-tins    :  -0.4334945048E-25
+ total moment            :   0.1778758315E-21
 
-RMS change in effective potential (target) :   0.1321081309E-02 (  0.1000000000E-04)
+RMS change in effective potential (target) :   0.1321080346E-02 (  0.1000000000E-04)
 
-Time (CPU seconds) :        43.02
+Time (CPU seconds) :        78.42
 
 +--------------------------+
 | Iteration number :    16 |
 +--------------------------+
 
 Energies :
- Fermi                   :   0.2022196847    
+ Fermi                   :   0.2022196953    
  sum of eigenvalues      :   -2418.947605    
- electronic kinetic      :    4293.251865    
- core electron kinetic   :    3976.381620    
- Coulomb                 :   -8338.739711    
- Coulomb potential       :   -6506.070906    
+ electronic kinetic      :    4293.251864    
+ core electron kinetic   :    3976.381619    
+ Coulomb                 :   -8338.739712    
+ Coulomb potential       :   -6506.070905    
  nuclear-nuclear         :   -452.9423548    
- electron-nuclear        :   -9265.523808    
- Hartree                 :    1379.726451    
- Madelung                :   -5085.704259    
- xc potential            :   -206.1285645    
- xc effective B-field    :   0.3811379884E-13
+ electron-nuclear        :   -9265.523810    
+ Hartree                 :    1379.726453    
+ Madelung                :   -5085.704260    
+ xc potential            :   -206.1285646    
+ xc effective B-field    :   0.3689195102E-11
  external B-field        :    0.000000000    
- exchange                :   -156.5280069    
- correlation             :   -3.125248828    
- total energy            :   -4205.141102    
+ exchange                :   -156.5280070    
+ correlation             :   -3.125248827    
+ total energy            :   -4205.141104    
  (external B-field energy excluded from total)
 
-Density of states at Fermi energy :    13.57916348    
+Density of states at Fermi energy :    13.57915688    
  (states/Hartree/spin/unit cell)
 
 Charges :
  core                    :    36.00000000    
  core leakage            :   0.7655761495E-02
  valence                 :    28.00000000    
- interstitial            :    4.758730937    
+ interstitial            :    4.758730836    
  muffin-tins
-  species    1 atom    1 :    28.79024125    
-  species    2 atom    1 :    30.45102781    
- total in muffin-tins    :    59.24126906    
+  species    1 atom    1 :    28.79024128    
+  species    2 atom    1 :    30.45102789    
+ total in muffin-tins    :    59.24126916    
  total charge            :    64.00000000    
 
 Moments :
- interstitial            :   0.5439529939E-22
+ interstitial            :  -0.2150834089E-21
  muffin-tins
-  species    1 atom    1 :   0.6293344186E-26
-  species    2 atom    1 :  -0.2176267246E-25
- total in muffin-tins    :  -0.1546932828E-25
- total moment            :   0.5437983007E-22
+  species    1 atom    1 :  -0.2607023322E-24
+  species    2 atom    1 :   0.2099892754E-24
+ total in muffin-tins    :  -0.5071305680E-25
+ total moment            :  -0.2151341220E-21
 
-RMS change in effective potential (target) :   0.6541208587E-03 (  0.1000000000E-04)
+RMS change in effective potential (target) :   0.6541207909E-03 (  0.1000000000E-04)
 
-Time (CPU seconds) :        45.52
+Time (CPU seconds) :        83.10
 
 +--------------------------+
 | Iteration number :    17 |
 +--------------------------+
 
 Energies :
- Fermi                   :   0.2022188142    
+ Fermi                   :   0.2022188199    
  sum of eigenvalues      :   -2418.947569    
- electronic kinetic      :    4293.251876    
- core electron kinetic   :    3976.381616    
+ electronic kinetic      :    4293.251877    
+ core electron kinetic   :    3976.381617    
  Coulomb                 :   -8338.739661    
  Coulomb potential       :   -6506.070884    
  nuclear-nuclear         :   -452.9423548    
@@ -899,243 +899,243 @@ Energies :
  Hartree                 :    1379.726422    
  Madelung                :   -5085.704219    
  xc potential            :   -206.1285615    
- xc effective B-field    :  -0.5518549463E-13
+ xc effective B-field    :   0.5384940237E-12
  external B-field        :    0.000000000    
- exchange                :   -156.5280047    
- correlation             :   -3.125248741    
- total energy            :   -4205.141038    
+ exchange                :   -156.5280046    
+ correlation             :   -3.125248740    
+ total energy            :   -4205.141037    
  (external B-field energy excluded from total)
 
-Density of states at Fermi energy :    13.57912551    
+Density of states at Fermi energy :    13.57912503    
  (states/Hartree/spin/unit cell)
 
 Charges :
  core                    :    36.00000000    
- core leakage            :   0.7655770947E-02
+ core leakage            :   0.7655770982E-02
  valence                 :    28.00000000    
- interstitial            :    4.758729356    
+ interstitial            :    4.758729367    
  muffin-tins
-  species    1 atom    1 :    28.79023936    
-  species    2 atom    1 :    30.45103128    
- total in muffin-tins    :    59.24127064    
+  species    1 atom    1 :    28.79023937    
+  species    2 atom    1 :    30.45103126    
+ total in muffin-tins    :    59.24127063    
  total charge            :    64.00000000    
 
 Moments :
- interstitial            :  -0.4469161534E-22
+ interstitial            :  -0.2864092873E-22
  muffin-tins
-  species    1 atom    1 :   0.4678055778E-26
-  species    2 atom    1 :  -0.4108502844E-26
- total in muffin-tins    :   0.5695529342E-27
- total moment            :  -0.4469104579E-22
+  species    1 atom    1 :  -0.1885615003E-24
+  species    2 atom    1 :   0.3025129187E-24
+ total in muffin-tins    :   0.1139514184E-24
+ total moment            :  -0.2852697731E-22
 
-RMS change in effective potential (target) :   0.3736204437E-03 (  0.1000000000E-04)
+RMS change in effective potential (target) :   0.3736206130E-03 (  0.1000000000E-04)
 
-Time (CPU seconds) :        48.02
+Time (CPU seconds) :        87.65
 
 +--------------------------+
 | Iteration number :    18 |
 +--------------------------+
 
 Energies :
- Fermi                   :   0.2022184823    
+ Fermi                   :   0.2022184817    
  sum of eigenvalues      :   -2418.947542    
  electronic kinetic      :    4293.251885    
  core electron kinetic   :    3976.381604    
- Coulomb                 :   -8338.739652    
+ Coulomb                 :   -8338.739651    
  Coulomb potential       :   -6506.070866    
  nuclear-nuclear         :   -452.9423548    
  electron-nuclear        :   -9265.523728    
  Hartree                 :    1379.726431    
  Madelung                :   -5085.704219    
  xc potential            :   -206.1285617    
- xc effective B-field    :   0.3749097350E-14
+ xc effective B-field    :  -0.1533330439E-11
  external B-field        :    0.000000000    
  exchange                :   -156.5280048    
  correlation             :   -3.125248717    
  total energy            :   -4205.141020    
  (external B-field energy excluded from total)
 
-Density of states at Fermi energy :    13.57916968    
+Density of states at Fermi energy :    13.57917059    
  (states/Hartree/spin/unit cell)
 
 Charges :
  core                    :    36.00000000    
- core leakage            :   0.7655775459E-02
+ core leakage            :   0.7655775450E-02
  valence                 :    28.00000000    
- interstitial            :    4.758728588    
+ interstitial            :    4.758728605    
  muffin-tins
-  species    1 atom    1 :    28.79023892    
-  species    2 atom    1 :    30.45103249    
- total in muffin-tins    :    59.24127141    
+  species    1 atom    1 :    28.79023891    
+  species    2 atom    1 :    30.45103248    
+ total in muffin-tins    :    59.24127139    
  total charge            :    64.00000000    
 
 Moments :
- interstitial            :   0.2818921337E-22
+ interstitial            :   0.1448433308E-21
  muffin-tins
-  species    1 atom    1 :   0.1954181788E-25
-  species    2 atom    1 :  -0.1246098995E-25
- total in muffin-tins    :   0.7080827925E-26
- total moment            :   0.2819629420E-22
+  species    1 atom    1 :  -0.1409691005E-24
+  species    2 atom    1 :   0.8816001090E-25
+ total in muffin-tins    :  -0.5280908958E-25
+ total moment            :   0.1447905217E-21
 
-RMS change in effective potential (target) :   0.2209013378E-03 (  0.1000000000E-04)
+RMS change in effective potential (target) :   0.2209027885E-03 (  0.1000000000E-04)
 
-Time (CPU seconds) :        50.52
+Time (CPU seconds) :        92.36
 
 +--------------------------+
 | Iteration number :    19 |
 +--------------------------+
 
 Energies :
- Fermi                   :   0.2022184200    
+ Fermi                   :   0.2022184315    
  sum of eigenvalues      :   -2418.947512    
- electronic kinetic      :    4293.251899    
- core electron kinetic   :    3976.381601    
- Coulomb                 :   -8338.739626    
- Coulomb potential       :   -6506.070850    
+ electronic kinetic      :    4293.251898    
+ core electron kinetic   :    3976.381600    
+ Coulomb                 :   -8338.739628    
+ Coulomb potential       :   -6506.070849    
  nuclear-nuclear         :   -452.9423548    
- electron-nuclear        :   -9265.523692    
- Hartree                 :    1379.726421    
- Madelung                :   -5085.704201    
- xc potential            :   -206.1285607    
- xc effective B-field    :  -0.1183715708E-12
+ electron-nuclear        :   -9265.523697    
+ Hartree                 :    1379.726424    
+ Madelung                :   -5085.704203    
+ xc potential            :   -206.1285608    
+ xc effective B-field    :   0.4658215717E-12
  external B-field        :    0.000000000    
- exchange                :   -156.5280040    
- correlation             :   -3.125248707    
- total energy            :   -4205.140979    
+ exchange                :   -156.5280041    
+ correlation             :   -3.125248706    
+ total energy            :   -4205.140982    
  (external B-field energy excluded from total)
 
-Density of states at Fermi energy :    13.57921756    
+Density of states at Fermi energy :    13.57921082    
  (states/Hartree/spin/unit cell)
 
 Charges :
  core                    :    36.00000000    
- core leakage            :   0.7655777257E-02
+ core leakage            :   0.7655777253E-02
  valence                 :    28.00000000    
- interstitial            :    4.758728447    
+ interstitial            :    4.758728341    
  muffin-tins
-  species    1 atom    1 :    28.79023905    
-  species    2 atom    1 :    30.45103250    
- total in muffin-tins    :    59.24127155    
+  species    1 atom    1 :    28.79023908    
+  species    2 atom    1 :    30.45103258    
+ total in muffin-tins    :    59.24127166    
  total charge            :    64.00000000    
 
 Moments :
- interstitial            :  -0.5820996487E-22
+ interstitial            :  -0.2600271822E-22
  muffin-tins
-  species    1 atom    1 :   0.8455350230E-27
-  species    2 atom    1 :   0.1560239965E-26
- total in muffin-tins    :   0.2405774988E-26
- total moment            :  -0.5820755909E-22
+  species    1 atom    1 :  -0.7278321044E-26
+  species    2 atom    1 :   0.6385020390E-25
+ total in muffin-tins    :   0.5657188286E-25
+ total moment            :  -0.2594614634E-22
 
-RMS change in effective potential (target) :   0.1266927167E-03 (  0.1000000000E-04)
+RMS change in effective potential (target) :   0.1266880682E-03 (  0.1000000000E-04)
 
-Time (CPU seconds) :        53.04
+Time (CPU seconds) :        96.85
 
 +--------------------------+
 | Iteration number :    20 |
 +--------------------------+
 
 Energies :
- Fermi                   :   0.2022184307    
+ Fermi                   :   0.2022184362    
  sum of eigenvalues      :   -2418.947497    
- electronic kinetic      :    4293.251905    
- core electron kinetic   :    3976.381600    
+ electronic kinetic      :    4293.251906    
+ core electron kinetic   :    3976.381601    
  Coulomb                 :   -8338.739612    
  Coulomb potential       :   -6506.070842    
  nuclear-nuclear         :   -452.9423548    
- electron-nuclear        :   -9265.523673    
+ electron-nuclear        :   -9265.523672    
  Hartree                 :    1379.726415    
  Madelung                :   -5085.704191    
  xc potential            :   -206.1285600    
- xc effective B-field    :  -0.7231954563E-12
+ xc effective B-field    :   0.2839881900E-12
  external B-field        :    0.000000000    
  exchange                :   -156.5280035    
  correlation             :   -3.125248703    
- total energy            :   -4205.140960    
+ total energy            :   -4205.140958    
  (external B-field energy excluded from total)
 
-Density of states at Fermi energy :    13.57923967    
+Density of states at Fermi energy :    13.57924016    
  (states/Hartree/spin/unit cell)
 
 Charges :
  core                    :    36.00000000    
- core leakage            :   0.7655777795E-02
+ core leakage            :   0.7655777841E-02
  valence                 :    28.00000000    
- interstitial            :    4.758728390    
+ interstitial            :    4.758728419    
  muffin-tins
   species    1 atom    1 :    28.79023911    
-  species    2 atom    1 :    30.45103250    
- total in muffin-tins    :    59.24127161    
+  species    2 atom    1 :    30.45103247    
+ total in muffin-tins    :    59.24127158    
  total charge            :    64.00000000    
 
 Moments :
- interstitial            :  -0.1766181068E-21
+ interstitial            :  -0.6249107675E-22
  muffin-tins
-  species    1 atom    1 :   0.1101199905E-25
-  species    2 atom    1 :  -0.1260891764E-25
- total in muffin-tins    :  -0.1596918591E-26
- total moment            :  -0.1766197037E-21
+  species    1 atom    1 :  -0.1497594421E-24
+  species    2 atom    1 :   0.9661536102E-25
+ total in muffin-tins    :  -0.5314408112E-25
+ total moment            :  -0.6254422083E-22
 
-RMS change in effective potential (target) :   0.6825884849E-04 (  0.1000000000E-04)
+RMS change in effective potential (target) :   0.6826278048E-04 (  0.1000000000E-04)
 
-Time (CPU seconds) :        55.54
+Time (CPU seconds) :       101.33
 
 +--------------------------+
 | Iteration number :    21 |
 +--------------------------+
 
 Energies :
- Fermi                   :   0.2022184583    
+ Fermi                   :   0.2022184601    
  sum of eigenvalues      :   -2418.947494    
- electronic kinetic      :    4293.251906    
+ electronic kinetic      :    4293.251905    
  core electron kinetic   :    3976.381599    
- Coulomb                 :   -8338.739608    
+ Coulomb                 :   -8338.739609    
  Coulomb potential       :   -6506.070839    
  nuclear-nuclear         :   -452.9423548    
- electron-nuclear        :   -9265.523666    
- Hartree                 :    1379.726413    
- Madelung                :   -5085.704188    
+ electron-nuclear        :   -9265.523670    
+ Hartree                 :    1379.726415    
+ Madelung                :   -5085.704190    
  xc potential            :   -206.1285599    
- xc effective B-field    :   0.1816173693E-12
+ xc effective B-field    :  -0.2231133265E-12
  external B-field        :    0.000000000    
  exchange                :   -156.5280034    
  correlation             :   -3.125248702    
- total energy            :   -4205.140954    
+ total energy            :   -4205.140956    
  (external B-field energy excluded from total)
 
-Density of states at Fermi energy :    13.57925497    
+Density of states at Fermi energy :    13.57925306    
  (states/Hartree/spin/unit cell)
 
 Charges :
  core                    :    36.00000000    
- core leakage            :   0.7655777840E-02
+ core leakage            :   0.7655777796E-02
  valence                 :    28.00000000    
- interstitial            :    4.758728286    
+ interstitial            :    4.758728266    
  muffin-tins
   species    1 atom    1 :    28.79023926    
-  species    2 atom    1 :    30.45103245    
- total in muffin-tins    :    59.24127171    
+  species    2 atom    1 :    30.45103247    
+ total in muffin-tins    :    59.24127173    
  total charge            :    64.00000000    
 
 Moments :
- interstitial            :   0.5141642645E-22
+ interstitial            :   0.9082610026E-22
  muffin-tins
-  species    1 atom    1 :   0.8792159304E-25
-  species    2 atom    1 :  -0.3627616530E-25
- total in muffin-tins    :   0.5164542774E-25
- total moment            :   0.5146807187E-22
+  species    1 atom    1 :  -0.2091018989E-25
+  species    2 atom    1 :   0.1349142582E-25
+ total in muffin-tins    :  -0.7418764071E-26
+ total moment            :   0.9081868149E-22
 
-RMS change in effective potential (target) :   0.3474486169E-04 (  0.1000000000E-04)
+RMS change in effective potential (target) :   0.3474675064E-04 (  0.1000000000E-04)
 
-Time (CPU seconds) :        58.06
+Time (CPU seconds) :       105.81
 
 +--------------------------+
 | Iteration number :    22 |
 +--------------------------+
 
 Energies :
- Fermi                   :   0.2022184699    
+ Fermi                   :   0.2022184741    
  sum of eigenvalues      :   -2418.947492    
- electronic kinetic      :    4293.251907    
+ electronic kinetic      :    4293.251908    
  core electron kinetic   :    3976.381600    
  Coulomb                 :   -8338.739607    
  Coulomb potential       :   -6506.070840    
@@ -1144,134 +1144,134 @@ Energies :
  Hartree                 :    1379.726412    
  Madelung                :   -5085.704187    
  xc potential            :   -206.1285597    
- xc effective B-field    :  -0.2754616961E-13
+ xc effective B-field    :  -0.8245559028E-12
  external B-field        :    0.000000000    
- exchange                :   -156.5280032    
+ exchange                :   -156.5280033    
  correlation             :   -3.125248700    
  total energy            :   -4205.140951    
  (external B-field energy excluded from total)
 
-Density of states at Fermi energy :    13.57926609    
+Density of states at Fermi energy :    13.57926496    
  (states/Hartree/spin/unit cell)
 
 Charges :
  core                    :    36.00000000    
- core leakage            :   0.7655778037E-02
+ core leakage            :   0.7655778034E-02
  valence                 :    28.00000000    
- interstitial            :    4.758728321    
+ interstitial            :    4.758728320    
  muffin-tins
-  species    1 atom    1 :    28.79023927    
-  species    2 atom    1 :    30.45103241    
+  species    1 atom    1 :    28.79023928    
+  species    2 atom    1 :    30.45103240    
  total in muffin-tins    :    59.24127168    
  total charge            :    64.00000000    
 
 Moments :
- interstitial            :  -0.1313169118E-22
+ interstitial            :  -0.1503368101E-21
  muffin-tins
-  species    1 atom    1 :   0.4798688058E-25
-  species    2 atom    1 :  -0.7557783357E-25
- total in muffin-tins    :  -0.2759095299E-25
- total moment            :  -0.1315928213E-22
+  species    1 atom    1 :  -0.1244718361E-25
+  species    2 atom    1 :  -0.4490193751E-26
+ total in muffin-tins    :  -0.1693737736E-25
+ total moment            :  -0.1503537474E-21
 
-RMS change in effective potential (target) :   0.1685691263E-04 (  0.1000000000E-04)
+RMS change in effective potential (target) :   0.1685637909E-04 (  0.1000000000E-04)
 
-Time (CPU seconds) :        60.56
+Time (CPU seconds) :       110.67
 
 +--------------------------+
 | Iteration number :    23 |
 +--------------------------+
 
 Energies :
- Fermi                   :   0.2022184717    
+ Fermi                   :   0.2022184746    
  sum of eigenvalues      :   -2418.947493    
  electronic kinetic      :    4293.251907    
  core electron kinetic   :    3976.381600    
  Coulomb                 :   -8338.739607    
  Coulomb potential       :   -6506.070840    
  nuclear-nuclear         :   -452.9423548    
- electron-nuclear        :   -9265.523664    
+ electron-nuclear        :   -9265.523665    
  Hartree                 :    1379.726412    
  Madelung                :   -5085.704187    
  xc potential            :   -206.1285597    
- xc effective B-field    :  -0.8228232879E-13
- external B-field        :    0.000000000    
- exchange                :   -156.5280033    
- correlation             :   -3.125248701    
- total energy            :   -4205.140952    
- (external B-field energy excluded from total)
-
-Density of states at Fermi energy :    13.57927308    
- (states/Hartree/spin/unit cell)
-
-Charges :
- core                    :    36.00000000    
- core leakage            :   0.7655778002E-02
- valence                 :    28.00000000    
- interstitial            :    4.758728327    
- muffin-tins
-  species    1 atom    1 :    28.79023929    
-  species    2 atom    1 :    30.45103238    
- total in muffin-tins    :    59.24127167    
- total charge            :    64.00000000    
-
-Moments :
- interstitial            :   0.1033055688E-21
- muffin-tins
-  species    1 atom    1 :   0.6822012288E-26
-  species    2 atom    1 :  -0.4068500398E-25
- total in muffin-tins    :  -0.3386299170E-25
- total moment            :   0.1032717058E-21
-
-RMS change in effective potential (target) :   0.7763232135E-05 (  0.1000000000E-04)
-
-Potential convergence target achieved
-
-Time (CPU seconds) :        63.06
-
-+--------------------------+
-| Iteration number :    24 |
-+--------------------------+
-
-Energies :
- Fermi                   :   0.2022184727    
- sum of eigenvalues      :   -2418.947493    
- electronic kinetic      :    4293.251907    
- core electron kinetic   :    3976.381600    
- Coulomb                 :   -8338.739607    
- Coulomb potential       :   -6506.070840    
- nuclear-nuclear         :   -452.9423548    
- electron-nuclear        :   -9265.523664    
- Hartree                 :    1379.726412    
- Madelung                :   -5085.704187    
- xc potential            :   -206.1285597    
- xc effective B-field    :   0.1510863156E-13
+ xc effective B-field    :  -0.1194929702E-12
  external B-field        :    0.000000000    
  exchange                :   -156.5280033    
  correlation             :   -3.125248700    
  total energy            :   -4205.140952    
  (external B-field energy excluded from total)
 
-Density of states at Fermi energy :    13.57927397    
+Density of states at Fermi energy :    13.57927138    
+ (states/Hartree/spin/unit cell)
+
+Charges :
+ core                    :    36.00000000    
+ core leakage            :   0.7655778001E-02
+ valence                 :    28.00000000    
+ interstitial            :    4.758728318    
+ muffin-tins
+  species    1 atom    1 :    28.79023929    
+  species    2 atom    1 :    30.45103239    
+ total in muffin-tins    :    59.24127168    
+ total charge            :    64.00000000    
+
+Moments :
+ interstitial            :  -0.2938464596E-22
+ muffin-tins
+  species    1 atom    1 :   0.3819311812E-25
+  species    2 atom    1 :  -0.1427671595E-25
+ total in muffin-tins    :   0.2391640217E-25
+ total moment            :  -0.2936072956E-22
+
+RMS change in effective potential (target) :   0.7762334840E-05 (  0.1000000000E-04)
+
+Potential convergence target achieved
+
+Time (CPU seconds) :       115.21
+
++--------------------------+
+| Iteration number :    24 |
++--------------------------+
+
+Energies :
+ Fermi                   :   0.2022184756    
+ sum of eigenvalues      :   -2418.947493    
+ electronic kinetic      :    4293.251907    
+ core electron kinetic   :    3976.381600    
+ Coulomb                 :   -8338.739607    
+ Coulomb potential       :   -6506.070840    
+ nuclear-nuclear         :   -452.9423548    
+ electron-nuclear        :   -9265.523664    
+ Hartree                 :    1379.726412    
+ Madelung                :   -5085.704187    
+ xc potential            :   -206.1285597    
+ xc effective B-field    :  -0.2128163975E-12
+ external B-field        :    0.000000000    
+ exchange                :   -156.5280033    
+ correlation             :   -3.125248700    
+ total energy            :   -4205.140951    
+ (external B-field energy excluded from total)
+
+Density of states at Fermi energy :    13.57927318    
  (states/Hartree/spin/unit cell)
 
 Charges :
  core                    :    36.00000000    
  core leakage            :   0.7655777989E-02
  valence                 :    28.00000000    
- interstitial            :    4.758728327    
+ interstitial            :    4.758728324    
  muffin-tins
-  species    1 atom    1 :    28.79023928    
+  species    1 atom    1 :    28.79023929    
   species    2 atom    1 :    30.45103239    
- total in muffin-tins    :    59.24127167    
+ total in muffin-tins    :    59.24127168    
  total charge            :    64.00000000    
 
 Moments :
- interstitial            :  -0.2760512855E-22
+ interstitial            :   0.3863478489E-23
  muffin-tins
-  species    1 atom    1 :  -0.1431513258E-25
-  species    2 atom    1 :   0.1753958653E-25
- total in muffin-tins    :   0.3224453948E-26
- total moment            :  -0.2760190409E-22
+  species    1 atom    1 :  -0.7562781444E-26
+  species    2 atom    1 :  -0.1564101431E-25
+ total in muffin-tins    :  -0.2320379575E-25
+ total moment            :   0.3840274694E-23
 
 +------------------------------+
 | Self-consistent loop stopped |
@@ -1280,13 +1280,13 @@ Moments :
 Wrote STATE.OUT
 
 Timings (CPU seconds) :
- initialisation                        :         4.84
- Hamiltonian and overlap matrix set up :         2.36
- first-variational secular equation    :         7.27
- second-variational calculation        :        22.50
- charge density calculation            :        14.53
- potential calculation                 :        14.07
- total                                 :        65.57
+ initialisation                        :         7.82
+ Hamiltonian and overlap matrix set up :         3.75
+ first-variational secular equation    :        11.74
+ second-variational calculation        :        38.08
+ charge density calculation            :        24.42
+ potential calculation                 :        33.91
+ total                                 :       119.73
 
 +----------------------------------+
 | EXCITING version 0.9.114 stopped |

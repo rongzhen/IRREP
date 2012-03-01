@@ -54,6 +54,9 @@ real(8),      parameter :: toldg = 9.d-6
 ! allocatable arrays 
 character(30), allocatable :: irlab(:) 
 !rongzhen
+integer k, m, n2st, nsp
+complex(8) zt1
+complex(8),allocatable :: evec2v(:,:)
 real(8), allocatable :: eval2v(:)
 !rongzhen
 !---------------------------------------------------------------! 
@@ -66,6 +69,7 @@ allocate(evec(nmatmax,nstfv,nspnfv) )
 allocate(evey(nstsv,nstsv) ) 
 !add by rongzhen	
 allocate(eval2v(nstsv))
+allocate(evec2v(nmatmax,nstsv))
 !end rongzhen
 ener(:,:)   = evalfv(:,:)
 evec(:,:,:) = evecfv(:,:,:)
@@ -73,6 +77,7 @@ evey(:,:)   = evecsv(:,:)
 !rongzhen
 eval2v(:)   = evalsv(:,ik)
 !end rongzhen
+
 
 write(*,*) "av1 ",(avec(1,is),is=1,3)
 write(*,*) "av2 ",(avec(2,is),is=1,3)
@@ -149,6 +154,29 @@ kgrpr = 0
 nkgrp = 0 
 irlab(1:nstfv) = ' '
 ! 
+!get the eigenvector from second variational by rongzhen
+
+Do i = 1, nstsv
+   Do k = 1, nmatmax
+      zt1 = 0
+      n2st = 0
+      Do nsp = 1, nspinor
+         Do j = 1, nstfv
+            n2st = n2st + 1
+            zt1 = zt1 + evecsv(n2st, i)*evec(k, j, nsp)
+         End Do
+      End Do
+         evec2v(k, i) = zt1
+   End Do
+End Do
+ 
+write(*,*) "testing the 2st eigenvector by rongzhen"
+Do i=1, nstsv
+write(*,*) evec2v(:,i)
+End DO
+stop
+
+!end rongzhen
 ! properties of the k-point 
 write(*,*)  ik,nkpt
 call irkpt(iout,ik,vkl(:,ik),vkc(:,ik),kcase,msrep,msneg,mspro, &
